@@ -117,19 +117,46 @@
   <label for="date_of_birth">Date of Birth:</label>
   <input type="date" name="date_of_birth" id="date_of_birth" required>
 
-  <label for="address">Address:</label>
-  <input type="text" name="address" id="address" required>
+  <select name="country">
+    <option value="">Select a country</option>
 
-  <label for="phone_number">Phone Number:</label>
-  <input type="tel" name="phone_number" id="phone_number" required>
 
+    <option
+
+            value="US">United States</option>
+
+
+    <option
+
+            value="UK">United Kingdom</option>
+
+
+    <option
+
+            value="CA">Canada</option>
+
+
+  </select>
+
+  <label for="Gender">Gender:</label>
+  <input type="radio" name="gender" value="male" checked> Male
+  <input type="radio" name="gender" value="female"> Female
+<br>
+  <br>
+<br>
+  <label for="interests">Interests:</label>
+  <input type="checkbox" name="interests[]" value="programming"> Programming
+  <input type="checkbox" name="interests[]" value="Travelling"> Travelling
+  <input type="checkbox" name="interests[]" value="Watching"> Watching
+
+<br><br> <br>
 
   <label for="academic_transcripts">Academic Transcripts:</label>
   <input type="file" name="academic_transcripts[]" id="academic_transcripts" multiple required>
 
 
   <label for="extracurricular_activities">Extracurricular Activities:</label>
-  <textarea name="extracurricular_activities" id="extracurricular_activities"></textarea>
+  <textarea name="extracurricular_activities" id="extracurricular_activities" placeholder="type here..."></textarea>
 
   <label for="letters_of_recommendation">Letters of Recommendation:</label>
   <input type="file" name="letters_of_recommendation[]" id="letters_of_recommendation" multiple required>
