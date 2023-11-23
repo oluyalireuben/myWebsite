@@ -1,4 +1,3 @@
-![Screenshot (41)](https://github.com/oluyalireuben/myWebsite/assets/60091643/0b69acf3-a4b4-4de6-ae37-607c8dc10979)
 # Safiri website
 -All about travelling 
 
