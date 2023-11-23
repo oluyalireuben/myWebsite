@@ -1,4 +1,4 @@
-
+![Screenshot (41)](https://github.com/oluyalireuben/myWebsite/assets/60091643/0b69acf3-a4b4-4de6-ae37-607c8dc10979)
 # Safiri website
 -All about travelling 
 
@@ -22,6 +22,19 @@
 
 ## Screenshots
 ![Screenshot (33)](https://github.com/oluyalireuben/myWebsite/assets/60091643/132133e6-c190-4d26-b93b-3d97d1acdac1)
+![Screenshot (40)](https://github.com/oluyalireuben/myWebsite/assets/60091643/4517a02a-e7b4-4f2a-a525-a33503233b1f)
+![Screenshot (41)](https://github.com/oluyalireuben/myWebsite/assets/60091643/a4e60827-f49d-4ab0-96ba-1b376608fb81)
+![Screenshot (42)](https://github.com/oluyalireuben/myWebsite/assets/60091643/5b051c54-ef7a-42ed-bea6-edc475739e2e)
+![Screenshot (43)](https://github.com/oluyalireuben/myWebsite/assets/60091643/d057c368-87bb-4933-993c-38bb12acbb6c)
+![Screenshot (44)](https://github.com/oluyalireuben/myWebsite/assets/60091643/ece1f2c5-65af-4d03-93ea-ea99d180836b)
+
+
+
+
+
+
+
+
 
 
 
